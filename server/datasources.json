@@ -1,0 +1,12 @@
+{
+  "postgres": {
+    "host": "localhost",
+    "port": 5432,
+    "url": "postgres://postgres:postgres@localhost/smapt",
+    "database": "smapt",
+    "password": "postgres",
+    "name": "postgres",
+    "user": "postgres",
+    "connector": "postgresql"
+  }
+}
